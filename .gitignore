@@ -16,3 +16,5 @@ karma-result.json
 *.ntvs*
 *.njsproj
 *.sln
+/.vs/slnx.sqlite
+/.vs/Vue-BookListing/config
